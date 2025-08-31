@@ -32,11 +32,4 @@ A sample Android app built with Jetpack Compose, showcasing features like Depend
 - [Retrofit](https://square.github.io/retrofit/)
 - [Picasso (Optional)](https://square.github.io/picasso/)
 
-## Getting Started
 
-To run the app on your local machine, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/KhubaibKhan4/Quotes-Compose.git
